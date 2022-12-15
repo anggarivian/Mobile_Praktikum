@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobile-4</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="email">Email :</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="password">Password :</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="masuk">MASUK</string>
+    <string name="LOGIN" />
+</resources>

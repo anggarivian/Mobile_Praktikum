@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "446973626513",
+    "project_id": "studikasus-mobile4-a244b",
+    "storage_bucket": "studikasus-mobile4-a244b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446973626513:android:474019a6dd404538999730",
+        "android_client_info": {
+          "package_name": "com.gogo.mobile_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446973626513-vv3m2t37inc0n52m6g4l4i42i75poden.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPw4H53I2EGGZAvcJ8HBpIZw_Q66ulsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446973626513-vv3m2t37inc0n52m6g4l4i42i75poden.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446973626513:android:efa2030a1e51fcd2999730",
+        "android_client_info": {
+          "package_name": "com.gogo.studikasusfirebasemobile4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446973626513-qkqsvk3etiu83csunnhkggrbcdu9nat6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogo.studikasusfirebasemobile4",
+            "certificate_hash": "12e52ed25115aadfc2543c45512befffe8fa9078"
+          }
+        },
+        {
+          "client_id": "446973626513-vv3m2t37inc0n52m6g4l4i42i75poden.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPw4H53I2EGGZAvcJ8HBpIZw_Q66ulsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446973626513-vv3m2t37inc0n52m6g4l4i42i75poden.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
