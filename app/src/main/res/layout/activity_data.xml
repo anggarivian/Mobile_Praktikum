@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/teal_700"
     android:padding="30dp"
-    tools:context=".DataActivity">
+    tools:context=".ActivityData">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -37,21 +37,24 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Nominal"
-                android:inputType="text" />
+                android:inputType="text"
+                android:minHeight="48dp" />
 
             <EditText
                 android:id="@+id/edt_tenor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Tenor"
-                android:inputType="text" />
+                android:inputType="text"
+                android:minHeight="48dp" />
 
             <EditText
                 android:id="@+id/edt_angsuran"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Angsuran"
-                android:inputType="text" />
+                android:inputType="text"
+                android:minHeight="48dp" />
 
             <Button
                 android:id="@+id/btn_delete"
